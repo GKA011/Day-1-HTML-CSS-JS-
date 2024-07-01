@@ -1,0 +1,32 @@
+
+ol {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+    text-align: center;
+}
+#a1 {
+    text-decoration: none;
+    color: rgb(17, 14, 28);
+    text-align: center;
+}
+#p1{
+    text-decoration: none;
+    color: rgb(192, 126, 34);
+    text-align: center;
+}
+#p2{
+    text-decoration: none;
+    color: rgb(192, 126, 34);
+    text-align: center;
+}
+#p3 {
+    text-decoration: none;
+    color: rgb(192, 126, 34);
+    text-align: center;
+}
+.grp1{
+    border: 1px solid red;
+    margin: 5% 10% 5% 30%;
+    padding: 10px 30px 10px 40px;
+    background-color: chocolate;
+}
